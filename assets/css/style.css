@@ -247,6 +247,12 @@ textarea {
     padding: 12px 50px;
     border-radius: 5px;
 }
+ /* 404 page */
+.p404 a {
+    font-style: italic;
+    color: #111;
+    font-size: 18px;
+}
 
 /* footer */
 
