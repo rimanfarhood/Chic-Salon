@@ -21,3 +21,37 @@ body {
 
 /* Navigation bar */
 
+.logo {
+    float: left;
+    font-size: 40px;
+    margin: 10px;
+}
+
+#nav {
+    font-size: 22px;
+    position: relative;
+}
+
+#nav, .logo {
+    line-height: 75px;
+}
+
+#nav li {
+    float: right;
+    list-style-type: none;
+    margin: 10px 20px;
+}
+
+#nav a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#nav li a:hover {
+    border: 1px solid #111;
+}
+
+/* responisve navbar */
+#nav1, #toggle, .toggle-label {
+    display: none;
+}
