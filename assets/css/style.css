@@ -52,6 +52,25 @@ body {
 }
 
 /* responisve navbar */
+
 #nav1, #toggle, .toggle-label {
     display: none;
+}
+
+/* Hero image */
+
+#hero-outer {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+}
+
+#hero-image {
+    height: 600px;
+    width: 100%;
+    background: url(../images/hero-image.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
 }
