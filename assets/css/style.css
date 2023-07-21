@@ -141,3 +141,29 @@ body {
     background-size: cover;
     border-radius: 5px;
 }
+
+#us {
+    margin-top: 40px;
+    text-align: center;
+    margin-bottom: 150px;
+}
+
+#us h1 {
+    font-size: 70px;
+    text-transform: uppercase;
+}
+
+#us p {
+    font-size: 25px;
+}
+
+.tr {
+    text-decoration: none;
+    font-style: italic;
+    color: #343635;
+}
+
+.tr:hover {
+    color: #111;
+    border-bottom: 1px solid #111;
+}
