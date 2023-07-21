@@ -314,6 +314,7 @@ footer a {
 
 @media screen and (max-width: 990px) {
     header {
+        background: rgb(255, 255, 255);
         text-align: center;
         position: sticky;
         top: 0;
@@ -379,4 +380,30 @@ footer a {
     #toggle:checked ~ nav {
         display: block;
     }
+}
+
+/* media queries for smaller screens */
+
+@media screen and (max-width: 761px) {
+    footer {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .a, .e, .s {
+        margin-left: 20px;
+        margin-right: auto;
+        text-align: left;
+        justify-content: none;
+    }
+}
+
+/* media query for small screens */
+
+@media screen and (max-width: 375px) {
+    .logo {
+        text-align: left;
+        margin-left: 5px;
+    }
+    
 }
