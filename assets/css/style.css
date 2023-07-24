@@ -79,9 +79,9 @@ body {
 
 .center {
     float: right;
-    margin-right: 20px;
+    padding: 30px;
     text-align: center;
-    margin-top: 40px;
+    
 }
 
 .center h1 {
@@ -413,10 +413,10 @@ footer a {
 
 /* media query for small screens */
 
-@media screen and (max-width: 410px) {
+@media screen and (max-width: 450px) {
     .logo {
         text-align: left;
-        margin-left: 5px;
+        padding: 5px;
     }
-    
+
 }
