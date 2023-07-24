@@ -78,9 +78,9 @@ body {
 /* Hero image content */
 
 .center {
-    float: right;
+    float: left;
     padding: 30px;
-    text-align: center;
+    text-align: left;
     
 }
 
@@ -91,20 +91,21 @@ body {
 }
 
 .center p {
-    font-size: 22px;
-    margin-top: 5px;
+    font-size: 25px;
+    margin-top: 25px;
+    line-height: 1.cm;
 }
 
 /* Opening hours */
 
 #times {
     width: 300px;
-    float: left;
-    margin-left: 20px;
+    float: right;
+    margin-right: 50px;
     margin-top: 70px;
     border: 2px solid #111;
     border-radius: 5px;
-    padding: 7px;
+    padding: 10px;
 }
 
 #times h2 {
@@ -150,12 +151,13 @@ body {
 }
 
 #us h1 {
-    font-size: 70px;
+    font-size: 40px;
     text-transform: uppercase;
 }
 
 #us p {
     font-size: 25px;
+    line-height: 1.cm;
 }
 
 .tr {
