@@ -23,7 +23,7 @@ body {
 
 .logo {
     float: left;
-    font-size: 40px;
+    font-size: 30px;
     margin: 10px;
 }
 
@@ -207,7 +207,7 @@ body {
 .contactsec h1 {
     text-align: center;
     color: rgb(130, 7, 7);
-    text-shadow: #000000;
+    text-shadow: rgb(0, 0, 0);
     font-weight: 600;
     margin: 50px auto;
     text-transform: uppercase;
@@ -404,12 +404,11 @@ footer a {
         display: flex;
         flex-direction: column;
     }
-
+    
     .a, .e, .s {
         margin-left: 20px;
         margin-right: auto;
         text-align: left;
-        justify-content: none;
     }
 }
 
