@@ -248,6 +248,19 @@ textarea {
     padding: 12px 50px;
     border-radius: 5px;
 }
+
+/* Thank you page */
+
+.t {
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+.t p {
+    font-size: 20px;
+    margin-top: 10px;
+}
+
  /* 404 page */
 .p404 a {
     font-style: italic;
