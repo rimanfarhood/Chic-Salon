@@ -418,5 +418,12 @@ footer a {
         text-align: left;
         padding: 5px;
     }
+    
+    #hero-outer {
+        height: 400px;
+    }
 
+    #hero-image {
+        height: 400px;
+    }
 }
