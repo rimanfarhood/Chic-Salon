@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Ysabeau+Infant:wght@200;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ysabeau+Infant:wght@200;500;600&display=swap');
 
 * {
     margin: 0;
@@ -206,7 +206,8 @@ body {
 
 .contactsec h1 {
     text-align: center;
-    color: rgb(255, 255, 255);
+    color: rgb(252, 0, 0);
+    font-weight: 600;
     margin: 50px auto;
     text-transform: uppercase;
 }
@@ -426,4 +427,4 @@ footer a {
     #hero-image {
         height: 400px;
     }
-}
+} 
