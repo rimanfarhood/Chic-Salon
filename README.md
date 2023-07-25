@@ -1,26 +1,30 @@
 # CHIC HAIR SALON
 
 
-Chic Hair Salon is a business webiste for a hair salon based in Sweden.
-It allows the bussiness to display themself and the services they offer.  
+Chic Hair Salon is a business website for a hair salon based in Sweden.
+It allows the business to display themself and the services they offer.  
 Provides the costumer with necessary information about the salon, such as 
-treatments, prices, location and conatct information.
+treatments, prices, location and conatct information. (bifoga livelänk)
 
 
 ![Responsice Mockup]
 
 ## Features 
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
+(TA BORT) In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things. (TA BORT)
 
-### Existing Features
+### Site Wide
+* Navigation Bar
 
-- __Navigation Bar__
+  * Full responisve navigation bar including links to Home, Treatments and Contact pages as well as a link the About Us section on the Home Page.
+  * Makes the navigation between the pages easier for the user.
 
-  - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
-  - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
+* Footer
 
-![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
+     * Responisve footer containing three sections, Address with the address to the salon and a phone number, Email section and a Soical Media section contaning to icons with links.
+     * Provides the user with contact information, address and links t our social media plattforms. Where they to see more of our daily work on clients etc.
+
+![Nav Bar]
 
 - __The landing page image__
 
