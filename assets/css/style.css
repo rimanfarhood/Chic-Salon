@@ -93,7 +93,7 @@ body {
 .center p {
     font-size: 25px;
     margin-top: 25px;
-    line-height: 1.cm;
+    line-height: 1cm;
 }
 
 /* Opening hours */
@@ -157,7 +157,7 @@ body {
 
 #us p {
     font-size: 25px;
-    line-height: 1.cm;
+    line-height: 1cm;
 }
 
 .tr {
@@ -209,7 +209,6 @@ body {
 .contactsec h1 {
     text-align: center;
     color: rgb(130, 7, 7);
-    text-shadow: rgb(0, 0, 0);
     font-weight: 600;
     margin: 50px auto;
     text-transform: uppercase;
@@ -430,3 +429,6 @@ footer a {
         height: 400px;
     }
 } 
+
+
+
