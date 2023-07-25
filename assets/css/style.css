@@ -255,6 +255,7 @@ textarea {
 /* Thank you page */
 
 .t {
+    min-height: 500px;
     margin-left: 50px;
     margin-top: 50px;
 }
@@ -411,9 +412,16 @@ footer a {
     }
     
     .a, .e, .s {
-        margin-left: 20px;
+        width: 100%;
+        margin: 0;
+        margin-left: auto;
         margin-right: auto;
         text-align: left;
+        padding: 5px;
+    }
+
+    .a, .e, .s p {
+        
     }
 }
 
