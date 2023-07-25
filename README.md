@@ -85,8 +85,12 @@ treatments, prices, location and conatct information. (bifoga livelänk)
 * Contact form
 
     * A contact form that allows customers to contact the salon. The fields and attributes used in the form are:
-         * Name (text=type)
-         * Phone (type=)
+         * Name (type=text)
+         * Email (type=email)
+         * Phone (type=tel)
+         * Massage (type=textarea)
+    * When submitted succsessfully the user will be redirected to thankyou.html, presenting a massage telling the customer we will get back whitin 24hours. 
+    * Allowing the customer to contact the salon if they have any questions or would like to book an appointment.
 
 
 
