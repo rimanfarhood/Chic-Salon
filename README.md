@@ -18,18 +18,26 @@ treatments, prices, location and conatct information. (bifoga livelänk)
 
   * Full responisve navigation bar including links to Home, Treatments and Contact pages as well as a link the About Us section on the Home Page.
   * Makes the navigation between the pages easier for the user.
-
+![Nav Bar]
 * Footer
 
-     * Responisve footer containing three sections, Address with the address to the salon and a phone number, Email section and a Soical Media section contaning to icons with links.
-     * Provides the user with contact information, address and links t our social media plattforms. Where they to see more of our daily work on clients etc.
+   * Responisve footer containing three sections, Address with the address to the salon and a phone number, Email section and a Soical Media section contaning to icons with links.
+   * Provides the user with contact information, address and links t our social media plattforms. Where they to see more of our daily work on clients etc.
 
-![Nav Bar]
+![Footer]
 
-- __The landing page image__
+* Favicon
 
-  - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to. 
-  - This section introduces the user to Love Running with an eye catching animation to grab their attention
+    * Site wide favicon included on all pages, with the sicssors icon.
+    * The image icon on the tab makes it easier for the user to find the site when having multiple tabs open at the same time. 
+
+
+* 404 Page
+
+   * A costum made 404 page will be displayed when a broken link is used to navigate.
+   * It will allow the user to comfortably be redirected to the main website. 
+
+
 
 ![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
 
