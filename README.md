@@ -31,49 +31,62 @@ treatments, prices, location and conatct information. (bifoga livelänk)
     * Site wide favicon included on all pages, with the sicssors icon.
     * The image icon on the tab makes it easier for the user to find the site when having multiple tabs open at the same time. 
 
+(bild)
+
 
 * 404 Page
 
    * A costum made 404 page will be displayed when a broken link is used to navigate.
    * It will allow the user to comfortably be redirected to the main website. 
 
+(bild)
+
+### Landing Page 
+
+* The landing page image
+
+    * The landing page image dipslays one of the hairdressers working in the salon while talking to a client.
+    * This will immediatly tell the user what the purpose of website it is.
+
+![Landing Page]
+
+* Sales pitch 
+
+    * A welcoming sales pitch beneath the landing page image.
+    * This will help getting the users attention in a positive way, almost like welcoming them to the salon. 
+
+    (bild)
+
+* Opening Hours 
+
+    * A box with the salons opening hours.
+    * This will makes it easiy for the user to find the salons openening hours without having to look through the whole website.
+
+(bild)
+
+#### About Us
+* A section with an image (?) and a paragraph with some sentences about the business.
+
+    * This will provide the user more information about the salon and a link to the treatments page.
+
+(bild)
+
+### Treatments page
+
+* Treatments 
+
+    * The treatment page contacins a list of the treatments we offer and the prices.
+    * This provides the user with necessary information about the services we offer and prices.
 
 
-![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
 
-- __Club Ethos Section__
 
-  - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall. 
-  - This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise. 
 
-![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
 
-- __Meetup Times section__
 
-  - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
-  - This section will be updated as these times change to keep the user up to date. 
 
-![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
 
-- __The Footer__ 
 
-  - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
-  - The footer is valuable to the user as it encourages them to keep connected via social media
-
-![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
-
-- __Gallery__
-
-  - The gallery will provide the user with supporting images to see what the meet ups look like. 
-  - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
-
-![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
-
-- __The Sign Up Page__
-
-  - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
-
-![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
 
 For some/all of your features, you may choose to reference the specific project files that implement them.
 
