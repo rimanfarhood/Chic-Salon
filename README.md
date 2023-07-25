@@ -64,7 +64,7 @@ treatments, prices, location and conatct information. (bifoga livelänk)
 
 (bild)
 
-#### About Us
+### About Us
 * A section with an image (?) and a paragraph with some sentences about the business.
 
     * This will provide the user more information about the salon and a link to the treatments page.
@@ -78,7 +78,15 @@ treatments, prices, location and conatct information. (bifoga livelänk)
     * The treatment page contacins a list of the treatments we offer and the prices.
     * This provides the user with necessary information about the services we offer and prices.
 
+(bild)
 
+### Contact Us Page
+
+* Contact form
+
+    * A contact form that allows customers to contact the salon. The fields and attributes used in the form are:
+         * Name (text=type)
+         * Phone (type=)
 
 
 
