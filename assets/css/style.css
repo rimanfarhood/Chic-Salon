@@ -395,6 +395,11 @@ footer a {
         display: flex;
         font-size: 30px;
         align-items: center;
+        color: rgb(255, 255, 255);
+    }
+
+    span {
+        color: black;
     }
 
     #toggle:checked ~ nav {
