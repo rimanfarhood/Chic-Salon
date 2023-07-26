@@ -176,7 +176,6 @@ body {
 
 #container {
     min-height: 600px;
-    margin: 0 auto;
     width: 100%;
     display: flex;
     justify-content: space-around;
@@ -187,17 +186,13 @@ body {
 #container li {
     list-style: none;
     font-size: 25px;
-    margin-top: 20px;
+    margin-top: 1em;
     text-transform: capitalize;
 }
 #container div {
     margin: auto auto;
 }
 
-
-#container h1 {
-    text-transform: uppercase;
-}
 
 /* Formpage */
 
@@ -441,9 +436,19 @@ footer a {
 
     /* treatment page */
 
-    #container {
-        
+    #container h1 {
+        font-size: 28px;
+        margin-top: -50px;
     }
+
+   .price {
+    text-align: left;
+   }
+
+   #container li {
+    font-size: 21px;
+   }
+
 } 
 
 
