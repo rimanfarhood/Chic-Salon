@@ -79,15 +79,17 @@ body {
 
 .center {
     float: left;
-    padding: 30px;
+    padding: 30px 0 0 30px;
+    letter-spacing: 1px;
+    margin-left: 8rem;
     text-align: left;
-    
 }
 
 .center h1 {
-    font-size: 40px;
+    font-size: 35px;
     margin-top: 40px;
     text-transform: uppercase;
+
 }
 
 .center p {
@@ -98,28 +100,33 @@ body {
 
 /* Opening hours */
 
+
 #times {
-    width: 300px;
+    width: 250px;
     float: right;
-    margin-right: 50px;
-    margin-top: 70px;
-    border: 2px solid #111;
+    margin: 8rem 10rem 0 0;
+    border: 1px solid #111;
     border-radius: 5px;
-    padding: 10px;
+    text-transform: uppercase;
 }
 
 #times h2 {
-    font-size: 30px;
+    font-size: 22px;
     text-align: center;
+    letter-spacing: 1px;
+    margin-top: 3px;
 }
 
+
 .time-table {
-    font-size: 20px;
+    font-size: 17px;
     border-spacing: 10px;
+    margin: 0 auto 0 auto;
 }
 
 .time-table tr td:nth-last-child(1) {
     text-align: right;
+    letter-spacing: normal;
 }
 
 /* About us section */
@@ -310,15 +317,14 @@ footer a {
 /* media query medium screens */
 
 @media screen and (max-width: 1100px) {
-    .seccenter {
-        display: flex;
-    }
     
     .center {
-        justify-content: center;
+        margin: 0 auto 0 auto;
+    }
+
+    #times {
         margin-left: auto;
-        margin-right: auto;
-        padding-right: 10px;
+        margin-right: 30px;
     }
     
 }
@@ -336,8 +342,7 @@ footer a {
     }
     .logo {
         text-align: center;
-        margin-left: 10px;
-        margin-top: 20px;
+        margin: 20px 0 0 10px;
         float: none;
     }
 
