@@ -65,6 +65,10 @@ body {
     overflow: hidden;
 }
 
+.hidden {
+    display: none;
+}
+
 #hero-image {
     height: 600px;
     width: 100%;
