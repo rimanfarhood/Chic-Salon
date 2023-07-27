@@ -161,7 +161,7 @@ body {
     margin-bottom: 100px;
 }
 
-#us h1 {
+#us h2 {
     font-size: 35px;
     text-transform: uppercase;
 }
@@ -213,7 +213,7 @@ body {
     padding: 40px 0;
 }
 
-.contactsec h1 {
+.contactsec h2 {
     text-align: center;
     color: rgb(130, 7, 7);
     font-weight: 600;
