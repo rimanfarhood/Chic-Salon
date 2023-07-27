@@ -24,7 +24,7 @@ body {
 .logo {
     float: left;
     font-size: 30px;
-    margin: 10px;
+    margin: 10px 0 0 20px;
 }
 
 #nav {
@@ -39,7 +39,7 @@ body {
 #nav li {
     float: right;
     list-style-type: none;
-    margin: 10px 20px;
+    margin: 10px 20px 0 0;
 }
 
 #nav a {
@@ -72,7 +72,7 @@ body {
 #hero-image {
     height: 600px;
     width: 100%;
-    background: url(../images/hero-image.jpg);
+    background: url(../images/hero-image.webp);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -89,7 +89,7 @@ body {
     text-align: left;
 }
 
-.center h1 {
+.center h2 {
     font-size: 35px;
     margin-top: 40px;
     text-transform: uppercase;
@@ -137,8 +137,8 @@ body {
 
 #abus-outer {
     margin-top: 200px;
-    height: 500px;
-    width: 80%;
+    height: 600px;
+    width: 75%;
     overflow: hidden;
     margin-left: auto;
     margin-right: auto;
@@ -146,9 +146,9 @@ body {
 
 #abus-img {
     margin-top: 100px;
-    height: 500px;
+    height: 600px;;
     width: 100%;
-    background: url(../images/about-us.jpg);
+    background: url(../images/about-us.webp);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -208,12 +208,12 @@ body {
 /* Formpage */
 
 .contactsec {
-    background: url(../images/about-us.jpg) no-repeat center;
+    background: url(../images/about-us.webp) no-repeat center;
     background-size: cover;
     padding: 40px 0;
 }
 
-.contactsec h2 {
+.contactsec h1 {
     text-align: center;
     color: rgb(130, 7, 7);
     font-weight: 600;
