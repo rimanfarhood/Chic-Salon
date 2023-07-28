@@ -100,7 +100,7 @@ treatments, prices, location and conatct information.
 #### Home page
 
 
-![Landing page]
+![Landing page](https://github.com/rimanfarhood/Chic-Salon/blob/main/assets/images/wf-home.jpeg)
 
 About us section
 
