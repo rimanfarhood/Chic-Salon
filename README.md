@@ -4,7 +4,7 @@
 Chic Hair Salon is a business website for a hair salon based in Sweden.
 It allows the business to display themself and the services they offer.  
 Provides the costumer with necessary information about the salon, such as 
-treatments, prices, location and conatct information. (bifoga livelänk)
+treatments, prices, location and conatct information. 
 
 
 ![Responsice Mockup]
@@ -99,7 +99,8 @@ treatments, prices, location and conatct information. (bifoga livelänk)
 
 #### Home page
 
-(bild)
+
+![Landing page]
 
 About us section
 
