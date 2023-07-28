@@ -137,7 +137,7 @@ body {
 
 #abus-outer {
     margin-top: 200px;
-    height: 400px;
+    height: 500px;
     width: 80%;
     overflow: hidden;
     margin-left: auto;
@@ -147,7 +147,7 @@ body {
 
 #abus-img {
     margin-top: 100px;
-    height: 400px;
+    height: 500px;
     width: 100%;
     background: url(../images/about-us.webp);
     background-repeat: no-repeat;
