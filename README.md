@@ -12,24 +12,27 @@ treatments, prices, location and conatct information.
 ## Features 
 
 ### Site Wide
+
 * Navigation Bar
 
   * Full responisve navigation bar including links to Home, Treatments and Contact pages as well as a link the About Us section on the Home Page.
   * Makes the navigation between the pages easier for the user.
-![Nav Bar]
+
+![Nav Bar](https://github.com/rimanfarhood/Chic-Salon/blob/main/assets/images/readme/nav.png)
+
 * Footer
 
    * Responisve footer containing three sections, Address with the address to the salon and a phone number, Email section and a Soical Media section contaning to icons with links.
    * Provides the user with contact information, address and links t our social media plattforms. Where they to see more of our daily work on clients etc.
 
-![Footer]
+![Footer](https://github.com/rimanfarhood/Chic-Salon/blob/main/assets/images/readme/footer.png)
 
 * Favicon
 
     * Site wide favicon included on all pages, with the sicssors icon.
     * The image icon on the tab makes it easier for the user to find the site when having multiple tabs open at the same time. 
 
-(bild)
+![Footer](https://github.com/rimanfarhood/Chic-Salon/blob/main/assets/images/readme/favicon.png)
 
 
 * 404 Page
@@ -46,28 +49,28 @@ treatments, prices, location and conatct information.
     * The landing page image dipslays one of the hairdressers working in the salon while talking to a client.
     * This will immediatly tell the user what the purpose of website it is.
 
-![Landing Page]
+![Landing Page](https://github.com/rimanfarhood/Chic-Salon/blob/main/assets/images/readme/landing.png)
 
 * Sales pitch 
 
     * A welcoming sales pitch beneath the landing page image.
     * This will help getting the users attention in a positive way, almost like welcoming them to the salon. 
 
-    (bild)
+![Sales pitch](https://github.com/rimanfarhood/Chic-Salon/blob/main/assets/images/readme/salespitch.png)
 
 * Opening Hours 
 
     * A box with the salons opening hours.
     * This will makes it easiy for the user to find the salons openening hours without having to look through the whole website.
 
-(bild)
+![Opening hours](https://github.com/rimanfarhood/Chic-Salon/blob/main/assets/images/readme/hours.png)
 
 ### About Us
 * A section with an image (?) and a paragraph with some sentences about the business.
 
     * This will provide the user more information about the salon and a link to the treatments page.
 
-(bild)
+![About us](https://github.com/rimanfarhood/Chic-Salon/blob/main/assets/images/readme/aboutus.png)
 
 ### Treatments page
 
@@ -76,7 +79,7 @@ treatments, prices, location and conatct information.
     * The treatment page contacins a list of the treatments we offer and the prices.
     * This provides the user with necessary information about the services we offer and prices.
 
-(bild)
+![Treatment page](https://github.com/rimanfarhood/Chic-Salon/blob/main/assets/images/readme/treat.png)
 
 ### Contact Page
 
@@ -112,6 +115,8 @@ treatments, prices, location and conatct information.
 
 ![Contact page](https://github.com/rimanfarhood/Chic-Salon/blob/main/assets/images/wf-contact.jpeg)
 
+![Submission page]()
+
 
 
 
@@ -146,7 +151,7 @@ You will need to mention unfixed bugs and why they were not fixed. This section 
 
 ## Deployment
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub) 
+This section should describe the process you went through to deploy the project to a hosting platform
 
 - The site was deployed to GitHub pages. The steps to deploy are as follows: 
   - In the GitHub repository, navigate to the Settings tab 
