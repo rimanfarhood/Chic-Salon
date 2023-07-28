@@ -94,6 +94,10 @@ treatments, prices, location and conatct information.
     * Allowing the customer to contact the salon if they have any questions or would like to book an appointment.
 
 
+![Contact form](https://github.com/rimanfarhood/Chic-Salon/blob/main/assets/images/readme/form.png)
+
+![Submission page](https://github.com/rimanfarhood/Chic-Salon/blob/main/assets/images/readme/thankyou.png)
+
 ## Design
 
 ### Wireframes
@@ -101,25 +105,19 @@ treatments, prices, location and conatct information.
 #### Home page
 
 
-![Landing page](https://github.com/rimanfarhood/Chic-Salon/blob/main/assets/images/wf-home.jpeg)
+![Landing page](https://github.com/rimanfarhood/Chic-Salon/blob/main/assets/images/readme/wf-home.jpeg)
 
 ##### About us section
 
-![about us](https://github.com/rimanfarhood/Chic-Salon/blob/main/assets/images/wf-aboutus-home.jpg)
+![about us](https://github.com/rimanfarhood/Chic-Salon/blob/main/assets/images/readme/wf-aboutus-home.jpg)
 
 #### Treatment page
 
-![Treatment page](https://github.com/rimanfarhood/Chic-Salon/blob/main/assets/images/wf-treatments.jpeg)
+![Treatment page](https://github.com/rimanfarhood/Chic-Salon/blob/main/assets/images/readme/wf-treatments.jpeg)
 
 #### Contact Page
 
-![Contact page](https://github.com/rimanfarhood/Chic-Salon/blob/main/assets/images/wf-contact.jpeg)
-
-![Submission page]()
-
-
-
-
+![Contact page](https://github.com/rimanfarhood/Chic-Salon/blob/main/assets/images/readme/wf-contact.jpeg)
 
 
 For some/all of your features, you may choose to reference the specific project files that implement them.
@@ -151,31 +149,28 @@ You will need to mention unfixed bugs and why they were not fixed. This section 
 
 ## Deployment
 
-This section should describe the process you went through to deploy the project to a hosting platform
+* This site was deployed to Github pages, steps are following:
 
-- The site was deployed to GitHub pages. The steps to deploy are as follows: 
-  - In the GitHub repository, navigate to the Settings tab 
-  - From the source section drop-down menu, select the Master Branch
-  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
+     * Go to the repository settings
+     * On the side menu of settings click on pages
+     * Click on the branch dropdown menu and select main
 
-The live link can be found here - 
+     The page will refresch and it might take a couple minu     
+
+The live link can be found here - [Font Awesome](https://rimanfarhood.github.io/Chic-Salon/index.html)
 
 
 ## Credits 
 
-In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
-
-You can break the credits section up into Content and Media, depending on what you have included in your project. 
 
 ### Content 
 
-- The text for the Home page was taken from Wikipedia Article A
 - Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
-- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+- The icons were taken from [Font Awesome](https://fontawesome.com/)
 
 ### Media
 
-- The photos used on the home and sign up page are from This Open Source site
-- The images used for the gallery page were taken from this other open source site
+- All photos are from this Open Source site [Font Awesome](https://www.pexels.com/sv-se/)
+- 
 
 

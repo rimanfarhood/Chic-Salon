@@ -48,7 +48,8 @@ body {
 }
 
 #nav li a:hover {
-    color: rgb(130, 7, 7);
+    color: rgb(98, 38, 38);
+    font-style: italic;
 }
 
 /* responisve navbar */
@@ -104,7 +105,6 @@ body {
 
 /* Opening hours */
 
-
 .times {
     width: 250px;
     float: right;
@@ -120,7 +120,6 @@ body {
     letter-spacing: 1px;
     margin-top: 3px;
 }
-
 
 .time-table {
     font-size: 17px;
@@ -183,7 +182,6 @@ body {
     border-bottom: 1px solid #111;
 }
 
-
 /* Treatment page */
 
 #container {
@@ -207,7 +205,6 @@ body {
     margin: auto auto;
 }
 
-
 /* Formpage */
 
 .contactsec {
@@ -218,7 +215,8 @@ body {
 
 .contactsec h1 {
     text-align: center;
-    color: rgb(130, 7, 7);
+    color: rgb(255, 255, 255);
+    font-size: 70px;
     font-weight: 600;
     margin: 50px auto;
     text-transform: uppercase;
@@ -234,7 +232,6 @@ body {
 .form-text {
     width: 100%;
     margin: 16px 0;
-    border: 0;
     background: #111;
     padding: 20px 40px;
     outline: none;
@@ -244,7 +241,7 @@ body {
 }
 
 .form-text:hover {
-    box-shadow: 0 0 5px 4px rgb(130, 7, 7);
+    box-shadow: 0 0 5px 4px rgb(255, 255, 255);
 }
 
 textarea {
@@ -262,24 +259,63 @@ textarea {
     border-radius: 5px;
 }
 
+.btn:hover {
+    box-shadow: 0 0 5px 4px rgb(255, 255, 255);
+}
+
 /* Thank you page */
 
 .t {
-    min-height: 500px;
-    margin-left: 50px;
-    margin-top: 50px;
+   text-align: center;
+   margin: 50px 0 50px 0;
+   padding: 10px;
+}
+
+.t h1 {
+    font-size: 50px;
 }
 
 .t p {
-    font-size: 20px;
+    font-size: 30px;
     margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+.hbtn {
+    font-size: 18px;
+    background-color: rgb(255, 255, 255);
+    color: #111;
+    border: 2px solid #111;
+    border-radius: 5px;
+    letter-spacing: normal;
+    padding: 5px;
+    font-style: italic;
+    text-decoration: none;
+}
+
+.hbtn:hover {
+    box-shadow: 0 0 5px 4px rgb(0, 0, 0);
+}
+
+.hbtn:active {
+   box-shadow: 0 0 5px 4px rgb(0, 0, 0);
 }
 
  /* 404 page */
-.p404 a {
-    font-style: italic;
-    color: #111;
-    font-size: 18px;
+
+.p404 {
+    text-align: center;
+    padding: 10px;
+}
+
+.p404 h1 {
+    margin-top: 100px;
+    font-size: 50px;
+}
+
+.p404 p {
+    font-size: 30px;
+    margin-bottom: 30px;
 }
 
 /* footer */
@@ -386,11 +422,13 @@ footer a {
     }
     
     #nav1 li a:hover {
-        color:rgb(130, 7, 7);
+        color: rgb(98, 38, 38);
+        font-style: italic;
     }
 
     #nav1 li a:active {
-        color: rgb(130, 7, 7);
+        color: rgb(98, 38, 38);
+        font-style: italic;
     }
 
     .toggle-label {
@@ -421,7 +459,6 @@ footer a {
     }
     
 }
-
 
 @media screen and (max-width: 843px) {
    .times {
@@ -455,9 +492,17 @@ footer a {
         padding: 10px;
     }
 
+    /* Thank you page  */
+
+    .t h1 {
+        font-size: 35px;
+    }
+
+    .t p {
+        font-size: 25px;
+    }
+
 }
-
-
 
 @media screen and (max-width: 450px) {
     .logo {
@@ -489,7 +534,6 @@ footer a {
     font-size: 21px;
    }
 
-   
    .center p {
     text-align: left;
     width: 330px;
