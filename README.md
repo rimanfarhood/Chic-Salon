@@ -7,7 +7,7 @@ Provides the costumer with necessary information about the salon, such as
 treatments, prices, location and conatct information. 
 
 
-![Responsice Mockup]
+![Responsice Mockup]()
 
 ## Features 
 
@@ -102,17 +102,17 @@ treatments, prices, location and conatct information.
 
 ![Landing page](https://github.com/rimanfarhood/Chic-Salon/blob/main/assets/images/wf-home.jpeg)
 
-About us section
+##### About us section
 
-(bild)
+![about us](https://github.com/rimanfarhood/Chic-Salon/blob/main/assets/images/wf-aboutus-home.jpg)
 
 #### Treatment page
 
-(bild)
+![Treatment page](https://github.com/rimanfarhood/Chic-Salon/blob/main/assets/images/wf-treatments.jpeg)
 
 #### Contact Page
 
-
+![Contact page](https://github.com/rimanfarhood/Chic-Salon/blob/main/assets/images/wf-contact.jpeg)
 
 
 
