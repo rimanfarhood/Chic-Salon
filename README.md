@@ -19,6 +19,9 @@ treatments, prices, location and conatct information.
   * Makes the navigation between the pages easier for the user.
 
 ![Nav Bar](https://github.com/rimanfarhood/Chic-Salon/blob/main/assets/images/readme/nav.png)
+![Nav Bar responsive]()
+![Dropdown]()
+
 
 * Footer
 
@@ -40,7 +43,7 @@ treatments, prices, location and conatct information.
    * A costum made 404 page will be displayed when a broken link is used to navigate.
    * It will allow the user to comfortably be redirected to the main website. 
 
-![404 Page]()
+![404 Page](https://github.com/rimanfarhood/Chic-Salon/blob/main/assets/images/readme/404.png)
 
 ### Landing Page 
 
@@ -66,7 +69,7 @@ treatments, prices, location and conatct information.
 ![Opening hours](https://github.com/rimanfarhood/Chic-Salon/blob/main/assets/images/readme/hours.png)
 
 ### About Us
-* A section with an image (?) and a paragraph with some sentences about the business.
+* A section with an image of ha hairmodel and a paragraph with some sentences about the business.
 
     * This will provide the user more information about the salon and a link to the treatments page.
 
@@ -120,29 +123,49 @@ treatments, prices, location and conatct information.
 ![Contact page](https://github.com/rimanfarhood/Chic-Salon/blob/main/assets/images/readme/wf-contact.jpeg)
 
 
-For some/all of your features, you may choose to reference the specific project files that implement them.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
-
-### Features Left to Implement
-
-- Another feature idea
 
 ## Testing 
 
-spell checking 
+![Wave]
 wave
-lughthouse 
 
-
+### Lighthouse
+### Mobile
+![Home-Page]
+![Treatment-page]
+![Contact-page]
+#### Desktop
+![Home-page]
+![Treatment-page]
+![Contact-page]
 ### Validator Testing 
 
+### HTML
 
+![Contact page]
+
+### CSS
+
+![Contact page]
 
 ### Unfixed Bugs
 
-You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed. 
+No bugs were found. 
 
+## Tecnologies used
+
+  * HTML, Structure.
+  * CSS, to style.
+  * [Gitpod](https://www.gitpod.io/), coding, editing and preview.
+  * [Github](https://github.com), store code and deployment.
+  * [Chrome Dev Tools](https://developer.chrome.com/docs/devtools/open/), Measuring for responsiveness.
+  * [W3C HTML Validator](https://validator.w3.org/#validate_by_input), HTML validation.
+  * [W3C CSS Validator](https://jigsaw.w3.org/css-validator/), CSS validation.
+  * [Wave](https://wave.webaim.org/), accessibility evaluation tool.
+  * [Am I responsive](https://ui.dev/amiresponsive), mockup image.
+  * [Google Fonts](https://fonts.google.com/), fonts.
+  * [Font Awsome](https://fontawesome.com/), icons.
+  * [Favicon](https://favicon.io/), favicon in tab.
 ## Deployment
 
 * This site was deployed to Github pages, steps are following:
@@ -151,22 +174,37 @@ You will need to mention unfixed bugs and why they were not fixed. This section 
      * On the side menu of settings click on pages
      * Click on the branch dropdown menu and select main
 
-     The page will refresch and it might take a couple minu     
+     The page will refresch, it might take a couple minutes. 
 
-The live link can be found here - [Font Awesome](https://rimanfarhood.github.io/Chic-Salon/index.html)
+The live link can be found here - [Live link to website](https://rimanfarhood.github.io/Chic-Salon/index.html)
 
+### Forking GitHub Repository
 
+1. Log into GitHub and locate the repository.
+2. Choose the option Fork" at the top of the screen, to create a copy of the repository.
+3. A copy of the repository will be created in your GitHub account.
+
+### Creating a Local Clone
+
+1. Navigate to the GitHub repository
+2. Click on the "Code" drop-down button.
+3. Choose local and HTTPS you will have a link copy that URL
+4. If wanted, change the current working directory in GitPod to the location desired.
+5. Type "git clone" and paste the URL from GitHub.
+6. Press "Enter" and the local clone will be create
 ## Credits 
 
+### Code 
+
+  * Responsive navbar instruction and inspiration from different tutorials [Kevin Powell 1](https://www.youtube.com/watch?v=8QKOaTYvYUA&t=1239s) [Kevin Powell 2](https://www.youtube.com/watch?v=FEmysQARWFU&t=410s) [Web Dev Simplified](https://www.youtube.com/watch?v=At4B7A4GOPg).
+  * Form Page Tutorial [DarkCode](https://www.youtube.com/watch?v=opbtRRSHGnk&t=300s). 
 
 ### Content 
 
-- Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
 - The icons were taken from [Font Awesome](https://fontawesome.com/)
 
 ### Media
 
-- All photos are from this Open Source site [Font Awesome](https://www.pexels.com/sv-se/)
-- 
+- All photos are from this Open Source site [Pexels](https://www.pexels.com/sv-se/)
 
 
