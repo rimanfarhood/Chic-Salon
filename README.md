@@ -141,22 +141,21 @@ treatments, prices, location and conatct information.
 
 ![Treatment page](https://github.com/rimanfarhood/Chic-Salon/blob/main/assets/images/readme/testing/lighthdesktr.png)
 
-![Contact page]
+![Contact page](https://github.com/rimanfarhood/Chic-Salon/blob/main/assets/images/readme/testing/lighthdeskc.png)
 
 ### Validator Testing 
 ### HTML
  * Same results on all four pages. 
 
-![Results]
+![Results](https://github.com/rimanfarhood/Chic-Salon/blob/main/assets/images/readme/testing/w3c-html.png)
 
 ### CSS
 
-![CSS]
+![CSS](https://github.com/rimanfarhood/Chic-Salon/blob/main/assets/images/readme/testing/w3c-css.png)
 
 ### Unfixed Bugs
 
 No bugs were found. 
-
 ## Tecnologies used
 
   * HTML, Structure.
@@ -182,7 +181,6 @@ No bugs were found.
      The page will refresch, it might take a couple minutes. 
 
 The live link can be found here - [Live link to website](https://rimanfarhood.github.io/Chic-Salon/index.html)
-
 ### Forking GitHub Repository
 
 1. Log into GitHub and locate the repository.
@@ -198,7 +196,6 @@ The live link can be found here - [Live link to website](https://rimanfarhood.gi
 5. Type "git clone" and paste the URL from GitHub.
 6. Press "Enter" and the local clone will be create
 ## Credits 
-
 ### Code 
 
   * Responsive navbar instruction and inspiration from different tutorials [Kevin Powell 1](https://www.youtube.com/watch?v=8QKOaTYvYUA&t=1239s) [Kevin Powell 2](https://www.youtube.com/watch?v=FEmysQARWFU&t=410s) [Web Dev Simplified](https://www.youtube.com/watch?v=At4B7A4GOPg).
@@ -207,7 +204,6 @@ The live link can be found here - [Live link to website](https://rimanfarhood.gi
 ### Content 
 
 - The icons were taken from [Font Awesome](https://fontawesome.com/)
-
 ### Media
 
 - All photos are from this Open Source site [Pexels](https://www.pexels.com/sv-se/)
