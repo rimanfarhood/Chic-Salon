@@ -208,7 +208,7 @@ body {
 /* Formpage */
 
 .contactsec {
-    background: url(../images/about-us.webp) no-repeat center;
+    background: rgb(0, 0, 0);
     background-size: cover;
     padding: 40px 0;
 }
