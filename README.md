@@ -1,9 +1,6 @@
 # CHIC HAIR SALON
 
-Chic Hair Salon is a business website for a hair salon based in Sweden.
-It allows the business to display themself and the services they offer.  
-Provides the costumer with necessary information about the salon, such as 
-treatments, prices, location and conatct information. 
+Chic Hair Salon is a business website for a hair salon based in Sweden. It allows the business to display themself and the services they offer. Provides the costumer with necessary information about the salon, such as treatments, prices, location and conatct information. [Live link](https://rimanfarhood.github.io/Chic-Salon/form.html)
 
 ![Responsice Mockup](https://github.com/rimanfarhood/Chic-Salon/blob/main/assets/images/readme/testing/mockup.png)
 
@@ -99,6 +96,8 @@ treatments, prices, location and conatct information.
 
 ![Contact form](https://github.com/rimanfarhood/Chic-Salon/blob/main/assets/images/readme/form.png)
 
+* Submission page
+
 ![Submission page](https://github.com/rimanfarhood/Chic-Salon/blob/main/assets/images/readme/thankyou.png)
 
 ## Design
@@ -123,12 +122,14 @@ treatments, prices, location and conatct information.
 ![Contact page](https://github.com/rimanfarhood/Chic-Salon/blob/main/assets/images/readme/wf-contact.jpeg)
 
 ## Testing 
-### Lighthouse
+### Wave
 
 * Same results on all pages.
 
 ![Wave](https://github.com/rimanfarhood/Chic-Salon/blob/main/assets/images/readme/testing/wave.png)
-### Mobile
+
+### Lighthouse
+#### Mobile
 
 ![Home page](https://github.com/rimanfarhood/Chic-Salon/blob/main/assets/images/readme/testing/lighthmobh.png)
 
