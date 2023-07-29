@@ -32,7 +32,7 @@ treatments, prices, location and conatct information.
     * Site wide favicon included on all pages, with the sicssors icon.
     * The image icon on the tab makes it easier for the user to find the site when having multiple tabs open at the same time. 
 
-![Footer](https://github.com/rimanfarhood/Chic-Salon/blob/main/assets/images/readme/favicon.png)
+![Favicon](https://github.com/rimanfarhood/Chic-Salon/blob/main/assets/images/readme/favicon.png)
 
 
 * 404 Page
@@ -40,7 +40,7 @@ treatments, prices, location and conatct information.
    * A costum made 404 page will be displayed when a broken link is used to navigate.
    * It will allow the user to comfortably be redirected to the main website. 
 
-(bild)
+![404 Page]()
 
 ### Landing Page 
 
