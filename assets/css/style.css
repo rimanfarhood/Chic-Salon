@@ -543,6 +543,12 @@ footer a {
     line-height: 2.5rem;
    }
 
+    /* form page */
+
+    .contactsec h1 {
+        font-size: 50px;
+    }
+
 } 
 
 
