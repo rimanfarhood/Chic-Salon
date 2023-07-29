@@ -157,10 +157,27 @@ Chic Hair Salon is a business website for a hair salon based in Sweden. It allow
 ![Contact page](https://github.com/rimanfarhood/Chic-Salon/blob/main/assets/images/readme/testing/lighthdeskc.png)
 
 ### Validator Testing 
-### HTML
- * Same results on all four pages. 
+### HTML 
 
-![Results](https://github.com/rimanfarhood/Chic-Salon/blob/main/assets/images/readme/testing/w3c-html.png)
+- Home page 
+
+![Home]()
+
+- Treatment page
+
+![treatment page]
+
+- Contact Page 
+
+![contact page]
+
+- Thank You Page
+
+![thank you page]
+
+- 404 page
+
+![Home]
 
 ### CSS
 
