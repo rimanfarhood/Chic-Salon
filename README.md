@@ -1,13 +1,11 @@
 # CHIC HAIR SALON
 
-
 Chic Hair Salon is a business website for a hair salon based in Sweden.
 It allows the business to display themself and the services they offer.  
 Provides the costumer with necessary information about the salon, such as 
 treatments, prices, location and conatct information. 
 
-
-![Responsice Mockup]()
+![Responsice Mockup](https://github.com/rimanfarhood/Chic-Salon/blob/main/assets/images/readme/testing/mockup.png)
 
 ## Features 
 
@@ -19,9 +17,10 @@ treatments, prices, location and conatct information.
   * Makes the navigation between the pages easier for the user.
 
 ![Nav Bar](https://github.com/rimanfarhood/Chic-Salon/blob/main/assets/images/readme/nav.png)
-![Nav Bar responsive]()
-![Dropdown]()
 
+![Nav Bar responsive](https://github.com/rimanfarhood/Chic-Salon/blob/main/assets/images/readme/nav1.png)
+
+![Dropdown](https://github.com/rimanfarhood/Chic-Salon/blob/main/assets/images/readme/dropdwon.png)
 
 * Footer
 
@@ -30,13 +29,14 @@ treatments, prices, location and conatct information.
 
 ![Footer](https://github.com/rimanfarhood/Chic-Salon/blob/main/assets/images/readme/footer.png)
 
+![Responsive Footer](https://github.com/rimanfarhood/Chic-Salon/blob/main/assets/images/readme/footer2.png)
+
 * Favicon
 
     * Site wide favicon included on all pages, with the sicssors icon.
     * The image icon on the tab makes it easier for the user to find the site when having multiple tabs open at the same time. 
 
 ![Favicon](https://github.com/rimanfarhood/Chic-Salon/blob/main/assets/images/readme/favicon.png)
-
 
 * 404 Page
 
@@ -122,31 +122,35 @@ treatments, prices, location and conatct information.
 
 ![Contact page](https://github.com/rimanfarhood/Chic-Salon/blob/main/assets/images/readme/wf-contact.jpeg)
 
-
-
 ## Testing 
+* Same results on all pages.
 
 ![Wave]
-wave
 
 ### Lighthouse
 ### Mobile
-![Home-Page]
+
+![Home-Page](https://github.com/rimanfarhood/Chic-Salon/blob/main/assets/images/readme/testing/lighthmobh.png)
+
 ![Treatment-page]
-![Contact-page]
+
+![Contact-page](https://github.com/rimanfarhood/Chic-Salon/blob/main/assets/images/readme/testing/lighthmobc.png)
 #### Desktop
+
 ![Home-page]
+
 ![Treatment-page]
+
 ![Contact-page]
 ### Validator Testing 
-
 ### HTML
+ * Same results on all four pages. 
 
-![Contact page]
+![Results]
 
 ### CSS
 
-![Contact page]
+![CSS]
 
 ### Unfixed Bugs
 
