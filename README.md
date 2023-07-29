@@ -131,16 +131,28 @@ Chic Hair Salon is a business website for a hair salon based in Sweden. It allow
 ### Lighthouse
 #### Mobile
 
+- Home page
+
 ![Home page](https://github.com/rimanfarhood/Chic-Salon/blob/main/assets/images/readme/testing/lighthmobh.png)
 
+- Treatment page
+
 ![Treatment page](https://github.com/rimanfarhood/Chic-Salon/blob/main/assets/images/readme/testing/lighthmobtr.png)
+
+- Contact page
 
 ![Contact page](https://github.com/rimanfarhood/Chic-Salon/blob/main/assets/images/readme/testing/lighthmobc.png)
 #### Desktop
 
+- Home page
+
 ![Home page](https://github.com/rimanfarhood/Chic-Salon/blob/main/assets/images/readme/testing/lighthdesk.png)
 
+- Treatment page
+
 ![Treatment page](https://github.com/rimanfarhood/Chic-Salon/blob/main/assets/images/readme/testing/lighthdesktr.png)
+
+- Contact page
 
 ![Contact page](https://github.com/rimanfarhood/Chic-Salon/blob/main/assets/images/readme/testing/lighthdeskc.png)
 
