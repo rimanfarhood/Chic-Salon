@@ -123,25 +123,26 @@ treatments, prices, location and conatct information.
 ![Contact page](https://github.com/rimanfarhood/Chic-Salon/blob/main/assets/images/readme/wf-contact.jpeg)
 
 ## Testing 
+### Lighthouse
+
 * Same results on all pages.
 
-![Wave]
-
-### Lighthouse
+![Wave](https://github.com/rimanfarhood/Chic-Salon/blob/main/assets/images/readme/testing/wave.png)
 ### Mobile
 
-![Home-Page](https://github.com/rimanfarhood/Chic-Salon/blob/main/assets/images/readme/testing/lighthmobh.png)
+![Home page](https://github.com/rimanfarhood/Chic-Salon/blob/main/assets/images/readme/testing/lighthmobh.png)
 
-![Treatment-page]
+![Treatment page](https://github.com/rimanfarhood/Chic-Salon/blob/main/assets/images/readme/testing/lighthmobtr.png)
 
-![Contact-page](https://github.com/rimanfarhood/Chic-Salon/blob/main/assets/images/readme/testing/lighthmobc.png)
+![Contact page](https://github.com/rimanfarhood/Chic-Salon/blob/main/assets/images/readme/testing/lighthmobc.png)
 #### Desktop
 
-![Home-page]
+![Home page](https://github.com/rimanfarhood/Chic-Salon/blob/main/assets/images/readme/testing/lighthdesk.png)
 
-![Treatment-page]
+![Treatment page](https://github.com/rimanfarhood/Chic-Salon/blob/main/assets/images/readme/testing/lighthdesktr.png)
 
-![Contact-page]
+![Contact page]
+
 ### Validator Testing 
 ### HTML
  * Same results on all four pages. 
